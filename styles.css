@@ -18,6 +18,9 @@
   }
 
   h1{
+     color: lightgray;
+    text-shadow: 1px 1px 10px black; 
+      
     margin-top: 40px;
     font-size: 3rem;
     text-align: center;
